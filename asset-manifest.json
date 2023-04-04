@@ -1,13 +1,13 @@
 {
-  "main.css": "/reviews-slider/static/css/main.ae3cf659.chunk.css",
-  "main.js": "/reviews-slider/static/js/main.f86895fc.chunk.js",
-  "main.js.map": "/reviews-slider/static/js/main.f86895fc.chunk.js.map",
-  "static/js/1.e4dd2727.chunk.js": "/reviews-slider/static/js/1.e4dd2727.chunk.js",
-  "static/js/1.e4dd2727.chunk.js.map": "/reviews-slider/static/js/1.e4dd2727.chunk.js.map",
-  "runtime~main.js": "/reviews-slider/static/js/runtime~main.8dc6eb4a.js",
-  "runtime~main.js.map": "/reviews-slider/static/js/runtime~main.8dc6eb4a.js.map",
-  "static/css/main.ae3cf659.chunk.css.map": "/reviews-slider/static/css/main.ae3cf659.chunk.css.map",
-  "index.html": "/reviews-slider/index.html",
-  "precache-manifest.2aa528e1463c0615b843f4d1e036eee9.js": "/reviews-slider/precache-manifest.2aa528e1463c0615b843f4d1e036eee9.js",
-  "service-worker.js": "/reviews-slider/service-worker.js"
+  "files": {
+    "main.css": "/reviews-slider/static/css/main.01cc9f49.css",
+    "main.js": "/reviews-slider/static/js/main.86a6d53f.js",
+    "index.html": "/reviews-slider/index.html",
+    "main.01cc9f49.css.map": "/reviews-slider/static/css/main.01cc9f49.css.map",
+    "main.86a6d53f.js.map": "/reviews-slider/static/js/main.86a6d53f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01cc9f49.css",
+    "static/js/main.86a6d53f.js"
+  ]
 }
